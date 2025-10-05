@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","18","Validate the login page with parameters","","2025-10-02","skipped","2025-10-02","","","",""
+"","13693","Validate the login to OrangeHRM","","2025-10-02","failed","2025-10-02","","","",""
+"","5","Navigation to OrangeHRM Login Page","","2025-10-02","skipped","2025-10-02","","","",""
+"","2","Validate the login page -- @1.2 ","","2025-10-02","skipped","2025-10-02","","","",""
+"","17","Validate the login page -- @1.1 ","","2025-10-02","skipped","2025-10-02","","","",""
