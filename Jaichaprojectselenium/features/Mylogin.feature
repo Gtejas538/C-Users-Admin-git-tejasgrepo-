@@ -32,7 +32,7 @@ Feature: Login page feature
     When User enters Username
     And User enters Password
     And User clicks on Login button
-    Then User should see /dashboard/index in the current page URL
+    Then User should see "/dashboard/index" in the current page URL
 
   @LoginWithParamters @allureTests
   Scenario: Validate the login to OrangeHRM with parameters
@@ -66,3 +66,7 @@ Feature: Login page feature
       | name  | value | status  |
       | name1 |     5 | success |
       | name2 |     7 | Fail    |
+      
+   
+  
+    
